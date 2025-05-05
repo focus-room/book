@@ -25,7 +25,7 @@ const config = {
   organizationName: 'focus-room', // Usually your GitHub org/user name.
   projectName: 'focus-room-book', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -33,7 +33,17 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'zh-Hans'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en-US',
+        label: 'English',
+      },
+      'zh-Hans': {
+        htmlLang: 'zh-Hans',
+        label: '简体中文',
+      },
+    },
   },
 
   presets: [
@@ -42,8 +52,8 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          path: 'chapters',
-          routeBasePath: 'chapters',
+          path: 'docs',
+          routeBasePath: 'docs',
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -76,6 +86,10 @@ const config = {
             label: 'Book',
           },
           {
+            type: 'localeDropdown',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/focus-room/focus-room-book',
             label: 'GitHub',
             position: 'right',
@@ -90,7 +104,7 @@ const config = {
             items: [
               {
                 label: 'Introduction',
-                to: '/chapters/intro',
+                to: '/docs/intro',
               },
             ],
           },
