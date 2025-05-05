@@ -46,6 +46,14 @@ const config = {
     },
   },
 
+  // Add markdown feature for mermaid
+  markdown: {
+    mermaid: true,
+  },
+
+  // Add mermaid theme
+  themes: ['@docusaurus/theme-mermaid'],
+
   presets: [
     [
       'classic',

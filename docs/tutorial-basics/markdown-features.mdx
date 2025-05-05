@@ -223,3 +223,27 @@ export const Highlight = ({children, color}) => (
 This is <Highlight color="#25c2a0">Docusaurus green</Highlight> !
 
 This is <Highlight color="#1877F2">Facebook blue</Highlight> !
+
+## Mermaid Diagrams
+
+Docusaurus supports [Mermaid](https://mermaid.js.org/) diagrams to create rich visualizations:
+
+```mermaid
+flowchart TD
+    A[Start] --> B{Is it working?}
+    B -->|Yes| C[Great!]
+    B -->|No| D[Debug]
+    D --> B
+```
+
+You can create various types of diagrams:
+
+- Flowcharts
+- Sequence diagrams
+- Class diagrams
+- Entity relationship diagrams
+- State diagrams
+- Gantt charts
+- Pie charts
+
+Simply use the ```mermaid code block syntax to define your diagrams.
