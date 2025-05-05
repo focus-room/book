@@ -66,7 +66,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/focus-room/focus-room-book/tree/main/',
+            'https://github.com/focus-room/book/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -98,7 +98,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/focus-room/focus-room-book',
+            href: 'https://github.com/focus-room/book',
             label: 'GitHub',
             position: 'right',
           },
@@ -138,7 +138,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/focus-room/focus-room-book',
+                href: 'https://github.com/focus-room/book',
               },
             ],
           },

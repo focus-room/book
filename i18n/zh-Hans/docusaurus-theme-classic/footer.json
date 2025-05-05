@@ -29,7 +29,7 @@
   },
   "link.item.label.GitHub": {
     "message": "GitHub",
-    "description": "The label of footer link with label=GitHub linking to https://github.com/focus-room/focus-room-book"
+    "description": "The label of footer link with label=GitHub linking to https://github.com/focus-room/book"
   },
   "copyright": {
     "message": "版权所有 © ${new Date().getFullYear()} Focus Room 图书。使用 Docusaurus 构建。",
