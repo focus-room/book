@@ -1,29 +1,29 @@
 {
-  "Focus Room": {
+  "homepage.focusRoom": {
     "message": "Focus Room"
   },
-  "The Agile Focus Method to Unleash Team Potential": {
+  "homepage.tagline": {
     "message": "The Agile Focus Method to Unleash Team Potential"
   },
-  "➡️ Start Reading The Book": {
+  "homepage.startReading": {
     "message": "➡️ Start Reading The Book"
   },
-  "Conquer Workplace Distraction": {
+  "features.conquerDistraction.title": {
     "message": "Conquer Workplace Distraction"
   },
-  "Escape the constant pings and context switching. Learn how the Focus Room method creates a protected, high-momentum environment to tackle complex tasks and deliver results faster.": {
+  "features.conquerDistraction.description": {
     "message": "Escape the constant pings and context switching. Learn how the Focus Room method creates a protected, high-momentum environment to tackle complex tasks and deliver results faster."
   },
-  "Harness Collective Focus Power": {
+  "features.collectivePower.title": {
     "message": "Harness Collective Focus Power"
   },
-  "Discover how structured 'Focus Blocks' and the subtle power of 'Social Facilitation' (working alongside others, even virtually) combine to boost team motivation, rhythm, and shared accomplishment.": {
+  "features.collectivePower.description": {
     "message": "Discover how structured 'Focus Blocks' and the subtle power of 'Social Facilitation' (working alongside others, even virtually) combine to boost team motivation, rhythm, and shared accomplishment."
   },
-  "Build Your High-Output Engine": {
+  "features.highOutput.title": {
     "message": "Build Your High-Output Engine"
   },
-  "Get a practical, step-by-step blueprint using Agile principles. Implement your own Focus Room (physical or virtual), measure its impact, and cultivate a lasting culture of deep work and continuous improvement.": {
+  "features.highOutput.description": {
     "message": "Get a practical, step-by-step blueprint using Agile principles. Implement your own Focus Room (physical or virtual), measure its impact, and cultivate a lasting culture of deep work and continuous improvement."
   },
   "theme.ErrorPageContent.title": {

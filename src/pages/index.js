@@ -14,16 +14,16 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          <Translate>Focus Room</Translate>
+          <Translate id="homepage.focusRoom">Focus Room</Translate>
         </Heading>
         <p className="hero__subtitle">
-          <Translate>The Agile Focus Method to Unleash Team Potential</Translate>
+          <Translate id="homepage.tagline">The Agile Focus Method to Unleash Team Potential</Translate>
         </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs">
-            <Translate>➡️ Start Reading The Book </Translate>
+            <Translate id="homepage.startReading">➡️ Start Reading The Book </Translate>
           </Link>
         </div>
       </div>
