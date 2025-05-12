@@ -4,8 +4,7 @@
     "description": "The tagline in the header"
   },
   "Focus Room": {
-    "message": "Focus Room",
-    "description": "The project name"
+    "message": "Focus Room"
   },
   "Easy to Use": {
     "message": "易于使用",
@@ -349,5 +348,29 @@
   "theme.tags.tagsPageTitle": {
     "message": "标签",
     "description": "The title of the tag list page"
+  },
+  "The Agile Focus Method to Unleash Team Potential": {
+    "message": "The Agile Focus Method to Unleash Team Potential"
+  },
+  "➡️ Start Reading The Book": {
+    "message": "➡️ Start Reading The Book"
+  },
+  "Conquer Workplace Distraction": {
+    "message": "Conquer Workplace Distraction"
+  },
+  "Escape the constant pings and context switching. Learn how the Focus Room method creates a protected, high-momentum environment to tackle complex tasks and deliver results faster.": {
+    "message": "Escape the constant pings and context switching. Learn how the Focus Room method creates a protected, high-momentum environment to tackle complex tasks and deliver results faster."
+  },
+  "Harness Collective Focus Power": {
+    "message": "Harness Collective Focus Power"
+  },
+  "Discover how structured 'Focus Blocks' and the subtle power of 'Social Facilitation' (working alongside others, even virtually) combine to boost team motivation, rhythm, and shared accomplishment.": {
+    "message": "Discover how structured 'Focus Blocks' and the subtle power of 'Social Facilitation' (working alongside others, even virtually) combine to boost team motivation, rhythm, and shared accomplishment."
+  },
+  "Build Your High-Output Engine": {
+    "message": "Build Your High-Output Engine"
+  },
+  "Get a practical, step-by-step blueprint using Agile principles. Implement your own Focus Room (physical or virtual), measure its impact, and cultivate a lasting culture of deep work and continuous improvement.": {
+    "message": "Get a practical, step-by-step blueprint using Agile principles. Implement your own Focus Room (physical or virtual), measure its impact, and cultivate a lasting culture of deep work and continuous improvement."
   }
 }

@@ -33,17 +33,7 @@ const config = {
   // may want to replace "en" with "cn".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'cn'],
-    localeConfigs: {
-      en: {
-        htmlLang: 'en-US',
-        label: 'English',
-      },
-      'cn': {
-        htmlLang: 'cn',
-        label: '简体中文',
-      },
-    },
+    locales: ['en', 'zh-CN', 'es', 'fr', 'de', 'ja', 'ko', 'pt'],
   },
 
   // Add markdown feature for mermaid
