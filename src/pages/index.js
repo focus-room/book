@@ -26,6 +26,19 @@ function HomepageHeader() {
             <Translate id="homepage.startReading">➡️ Start Reading The Book </Translate>
           </Link>
         </div>
+      
+        <div>
+            <div className={styles.languageButtons}>
+              <Link to="/en/" className="button button--primary margin--xs">English</Link>
+              <Link to="/zh-CN/" className="button button--primary margin--xs">中文</Link>
+              <Link to="/es/" className="button button--primary margin--xs">Español</Link>
+              <Link to="/fr/" className="button button--primary margin--xs">Français</Link>
+              <Link to="/de/" className="button button--primary margin--xs">Deutsch</Link>
+              <Link to="/ja/" className="button button--primary margin--xs">日本語</Link>
+              <Link to="/ko/" className="button button--primary margin--xs">한국어</Link>
+              <Link to="/pt/" className="button button--primary margin--xs">Português</Link>
+            </div>
+        </div>      
       </div>
     </header>
   );

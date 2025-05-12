@@ -4,7 +4,7 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
+  padding: 4rem 0 0 0;
   text-align: center;
   position: relative;
   overflow: hidden;
@@ -20,4 +20,19 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.languageButtons {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.languageTitle {
+  width: 100%;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+  color: white;
 }
