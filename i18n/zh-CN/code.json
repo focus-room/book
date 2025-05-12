@@ -1,42 +1,6 @@
 {
-  "Multi-user timer board for collective focus": {
-    "message": "用于集体专注的多用户计时器板",
-    "description": "The tagline in the header"
-  },
   "Focus Room": {
     "message": "Focus Room"
-  },
-  "Easy to Use": {
-    "message": "易于使用",
-    "description": "Homepage feature title"
-  },
-  "Focus on What Matters": {
-    "message": "专注于重要事项",
-    "description": "Homepage feature title"
-  },
-  "Powered by React": {
-    "message": "由 React 提供支持",
-    "description": "Homepage feature title"
-  },
-  "Docusaurus was designed from the ground up to be easily installed and used to get your website up and running quickly.": {
-    "message": "Docusaurus 从一开始就被设计成易于安装和使用，让您的网站快速启动和运行。",
-    "description": "Homepage feature description"
-  },
-  "Docusaurus lets you focus on your docs, and we'll do the chores. Go ahead and move your docs into the <code>docs</code> directory.": {
-    "message": "Docusaurus 让您专注于文档，我们来处理杂务。继续将您的文档移至 <code>docs</code> 目录。",
-    "description": "Homepage feature description"
-  },
-  "Extend or customize your website layout by reusing React. Docusaurus can be extended while reusing the same header and footer.": {
-    "message": "通过重用 React 扩展或自定义您的网站布局。Docusaurus 可以在重用相同的页眉和页脚的同时进行扩展。",
-    "description": "Homepage feature description"
-  },
-  "Hello from {0}": {
-    "message": "来自 {0} 的问候",
-    "description": "Homepage title"
-  },
-  "Docusaurus Tutorial - 5min ⏱️": {
-    "message": "Docusaurus 教程 - 5分钟 ⏱️",
-    "description": "Homepage get started button"
   },
   "theme.ErrorPageContent.title": {
     "message": "页面已崩溃。",

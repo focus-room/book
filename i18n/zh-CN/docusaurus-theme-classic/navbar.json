@@ -7,10 +7,6 @@
     "message": "Focus Room 标志",
     "description": "The alt text of navbar logo"
   },
-  "item.label.Book": {
-    "message": "图书",
-    "description": "Navbar item with label Book"
-  },
   "item.label.GitHub": {
     "message": "GitHub",
     "description": "Navbar item with label GitHub"
