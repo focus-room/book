@@ -12,7 +12,7 @@
     "description": "Navbar item with label GitHub"
   },
   "item.label.Read The Book": {
-    "message": "Read The Book",
+    "message": "阅读本书",
     "description": "Navbar item with label Read The Book"
   }
 }

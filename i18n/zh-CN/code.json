@@ -271,15 +271,15 @@
     "description": "The title of the page for a blog author"
   },
   "theme.blog.authorsList.pageTitle": {
-    "message": "Authors",
+    "message": "作者列表",
     "description": "The title of the authors page"
   },
   "theme.blog.authorsList.viewAll": {
-    "message": "View All Authors",
+    "message": "查看全部作者",
     "description": "The label of the link targeting the blog authors page"
   },
   "theme.blog.author.noPosts": {
-    "message": "This author has not written any posts yet.",
+    "message": "该作者尚未发布任何博文。",
     "description": "The text for authors with 0 blog post"
   },
   "theme.contentVisibility.unlistedBanner.title": {
@@ -291,11 +291,11 @@
     "description": "The unlisted content banner message"
   },
   "theme.contentVisibility.draftBanner.title": {
-    "message": "Draft page",
+    "message": "草稿页面",
     "description": "The draft content banner title"
   },
   "theme.contentVisibility.draftBanner.message": {
-    "message": "This page is a draft. It will only be visible in dev and be excluded from the production build.",
+    "message": "此页面为草稿，仅在开发环境可见，正式发布时不会包含。",
     "description": "The draft content banner message"
   },
   "theme.ErrorPageContent.tryAgain": {
@@ -314,27 +314,35 @@
     "message": "Focus Room"
   },
   "homepage.tagline": {
-    "message": "The Agile Focus Method to Unleash Team Potential"
+    "message": "引爆团队潜能的敏捷专注法",
+    "description": "The Agile Focus Method to Unleash Team Potential"
   },
   "homepage.startReading": {
-    "message": "➡️ Start Reading The Book"
+    "message": "➡️ 开始阅读本书",
+    "description": "Start Reading The Book"
   },
   "features.conquerDistraction.title": {
-    "message": "Conquer Workplace Distraction"
+    "message": "征服职场干扰",
+    "description": "Conquer Workplace Distraction"
   },
   "features.conquerDistraction.description": {
-    "message": "Escape the constant pings and context switching. Learn how the Focus Room method creates a protected, high-momentum environment to tackle complex tasks and deliver results faster."
+    "message": "摆脱持续的消息轰炸与频繁切换。了解 Focus Room 方法如何打造受保护、高动能的环境，助你攻克复杂任务，更快交付成果。",
+    "description": "Escape the constant pings and context switching. Learn how the Focus Room method creates a protected, high-momentum environment to tackle complex tasks and deliver results faster."
   },
   "features.collectivePower.title": {
-    "message": "Harness Collective Focus Power"
+    "message": "激发集体专注力",
+    "description": "Harness Collective Focus Power"
   },
   "features.collectivePower.description": {
-    "message": "Discover how structured 'Focus Blocks' and the subtle power of 'Social Facilitation' (working alongside others, even virtually) combine to boost team motivation, rhythm, and shared accomplishment."
+    "message": "探索结构化\"专注区块\"与\"社会促进效应\"（即使是虚拟共工）如何协同提升团队动力、节奏与成就感。",
+    "description": "Discover how structured 'Focus Blocks' and the subtle power of 'Social Facilitation' (working alongside others, even virtually) combine to boost team motivation, rhythm, and shared accomplishment."
   },
   "features.highOutput.title": {
-    "message": "Build Your High-Output Engine"
+    "message": "打造高产引擎",
+    "description": "Build Your High-Output Engine"
   },
   "features.highOutput.description": {
-    "message": "Get a practical, step-by-step blueprint using Agile principles. Implement your own Focus Room (physical or virtual), measure its impact, and cultivate a lasting culture of deep work and continuous improvement."
+    "message": "用敏捷原则获得实用、可落地的操作蓝图。无论实体还是虚拟，搭建你的 Focus Room，衡量成效，培养持续深度工作的文化。",
+    "description": "Get a practical, step-by-step blueprint using Agile principles. Implement your own Focus Room (physical or virtual), measure its impact, and cultivate a lasting culture of deep work and continuous improvement."
   }
 }
