@@ -5,48 +5,45 @@ import Translate from '@docusaurus/Translate';
 
 const FeatureList = [
   {
-    title: <Translate>Easy to Use</Translate>,
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: <Translate>Conquer Workplace Distraction</Translate>,
+    image: '/img/undraw_focus_room_distraction_free.png',
     description: (
       <>
         <Translate>
-          Docusaurus was designed from the ground up to be easily installed and
-          used to get your website up and running quickly.
+          Escape the constant pings and context switching. Learn how the Focus Room method creates a protected, high-momentum environment to tackle complex tasks and deliver results faster.
         </Translate>
       </>
     ),
   },
   {
-    title: <Translate>Focus on What Matters</Translate>,
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: <Translate>Harness Collective Focus Power</Translate>,
+    image: '/img/undraw_focus_room_team_flow.png',
     description: (
       <>
         <Translate>
-          Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-          ahead and move your docs into the docs directory.
+          Discover how structured 'Focus Blocks' and the subtle power of 'Social Facilitation' (working alongside others, even virtually) combine to boost team motivation, rhythm, and shared accomplishment.
         </Translate>
       </>
     ),
   },
   {
-    title: <Translate>Powered by React</Translate>,
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: <Translate>Build Your High-Output Engine</Translate>,
+    image: '/img/undraw_focus_room_blueprint.png',
     description: (
       <>
         <Translate>
-          Extend or customize your website layout by reusing React. Docusaurus can
-          be extended while reusing the same header and footer.
+          Get a practical, step-by-step blueprint using Agile principles. Implement your own Focus Room (physical or virtual), measure its impact, and cultivate a lasting culture of deep work and continuous improvement.
         </Translate>
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({image, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={image} alt={image} className={styles.featureImage} />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>

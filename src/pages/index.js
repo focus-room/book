@@ -17,13 +17,13 @@ function HomepageHeader() {
           <Translate>Focus Room</Translate>
         </Heading>
         <p className="hero__subtitle">
-          <Translate>Multi-user timer board for collective focus</Translate>
+          <Translate>The Agile Focus Method to Unleash Team Potential</Translate>
         </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            <Translate>Docusaurus Tutorial - 5min ⏱️</Translate>
+            <Translate>➡️ Start Reading The Book </Translate>
           </Link>
         </div>
       </div>
@@ -35,7 +35,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title="Hello from Focus-Room"
+      title="Focus Room - The Agile Focus Method to Unleash Team Potential"
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>

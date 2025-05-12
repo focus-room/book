@@ -30,17 +30,17 @@ const config = {
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
+  // may want to replace "en" with "cn".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'zh-Hans'],
+    locales: ['en', 'cn'],
     localeConfigs: {
       en: {
         htmlLang: 'en-US',
         label: 'English',
       },
-      'zh-Hans': {
-        htmlLang: 'zh-Hans',
+      'cn': {
+        htmlLang: 'cn',
         label: '简体中文',
       },
     },
@@ -63,6 +63,7 @@ const config = {
           path: 'docs',
           routeBasePath: 'docs',
           sidebarPath: './sidebars.js',
+          sidebarCollapsible: false,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -89,9 +90,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'bookSidebar',
             position: 'left',
-            label: 'Book',
+            label: 'Read The Book',
           },
           {
             type: 'localeDropdown',
@@ -104,44 +105,16 @@ const config = {
           },
         ],
       },
+      docs: {
+        sidebar: {
+          hideable: true,
+          autoCollapseCategories: false,
+        },
+      },
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Book',
-            items: [
-              {
-                label: 'Introduction',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/focus-room',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/focus-room',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/focusroom',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/focus-room/book',
-              },
-            ],
-          },
+          
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Focus Room Book. Built with Docusaurus.`,
       },
