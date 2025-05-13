@@ -4,7 +4,7 @@
     "description": "The title in the navbar"
   },
   "logo.alt": {
-    "message": "Logo da Sala de Foco",
+    "message": "Logo da Focus Room",
     "description": "The alt text of navbar logo"
   },
   "item.label.Read The Book": {

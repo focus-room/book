@@ -4,7 +4,7 @@
     "description": "The title in the navbar"
   },
   "logo.alt": {
-    "message": "포커스 룸 로고",
+    "message": "Focus Room 로고",
     "description": "The alt text of navbar logo"
   },
   "item.label.Read The Book": {

@@ -1,6 +1,7 @@
 {
   "homepage.focusRoom": {
-    "message": "フォーカスルーム"
+    "message": "Focus Room",
+    "description": "フォーカスルーム"
   },
   "homepage.tagline": {
     "message": "アジャイル・フォーカスメソッドでチームの可能性を解き放つ"
@@ -12,7 +13,7 @@
     "message": "職場の気を散らすものを克服"
   },
   "features.conquerDistraction.description": {
-    "message": "絶え間ない通知やコンテキストの切り替えから解放されましょう。フォーカスルームメソッドが、複雑なタスクに集中し、より早く成果を出すための保護された高モメンタム環境をどのように作るかを学びます。"
+    "message": "絶え間ない通知やコンテキストの切り替えから解放されましょう。Focus Roomメソッドが、複雑なタスクに集中し、より早く成果を出すための保護された高モメンタム環境をどのように作るかを学びます。"
   },
   "features.collectivePower.title": {
     "message": "集団の集中力を活用"
@@ -24,7 +25,7 @@
     "message": "高出力エンジンを構築"
   },
   "features.highOutput.description": {
-    "message": "アジャイル原則を活用した実践的なステップバイステップの設計図を手に入れましょう。自分自身のフォーカスルーム（物理・バーチャル問わず）を実装し、その効果を測定し、深い仕事と継続的改善の文化を育てましょう。"
+    "message": "アジャイル原則を活用した実践的なステップバイステップの設計図を手に入れましょう。自分自身のFocus Room（物理・バーチャル問わず）を実装し、その効果を測定し、深い仕事と継続的改善の文化を育てましょう。"
   },
   "theme.ErrorPageContent.title": {
     "message": "エラーが発生しました",

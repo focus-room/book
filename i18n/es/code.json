@@ -1,6 +1,7 @@
 {
   "homepage.focusRoom": {
-    "message": "Sala de Enfoque"
+    "message": "Focus Room",
+    "description": "Sala de Enfoque"
   },
   "homepage.tagline": {
     "message": "El Método Ágil de Enfoque para Liberar el Potencial del Equipo"
@@ -12,7 +13,7 @@
     "message": "Conquista la Distracción en el Trabajo"
   },
   "features.conquerDistraction.description": {
-    "message": "Escapa de los constantes avisos y cambios de contexto. Aprende cómo el método de Sala de Enfoque crea un ambiente protegido y de alto impulso para abordar tareas complejas y entregar resultados más rápido."
+    "message": "Escapa de los constantes avisos y cambios de contexto. Aprende cómo el método de Focus Room crea un ambiente protegido y de alto impulso para abordar tareas complejas y entregar resultados más rápido."
   },
   "features.collectivePower.title": {
     "message": "Aprovecha el Poder Colectivo del Enfoque"
@@ -24,7 +25,7 @@
     "message": "Construye Tu Motor de Alta Productividad"
   },
   "features.highOutput.description": {
-    "message": "Obtén un plan práctico paso a paso utilizando principios Ágiles. Implementa tu propia Sala de Enfoque (física o virtual), mide su impacto y cultiva una cultura duradera de trabajo profundo y mejora continua."
+    "message": "Obtén un plan práctico paso a paso utilizando principios Ágiles. Implementa tu propia Focus Room (física o virtual), mide su impacto y cultiva una cultura duradera de trabajo profundo y mejora continua."
   },
   "theme.ErrorPageContent.title": {
     "message": "Esta página ha fallado.",

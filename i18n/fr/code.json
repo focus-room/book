@@ -1,6 +1,7 @@
 {
   "homepage.focusRoom": {
-    "message": "Salle de Concentration"
+    "message": "Focus Room",
+    "description": "Salle de Concentration"
   },
   "homepage.tagline": {
     "message": "La Méthode Agile de Concentration pour Libérer le Potentiel de l'Équipe"
@@ -12,7 +13,7 @@
     "message": "Vaincre les Distractions au Travail"
   },
   "features.conquerDistraction.description": {
-    "message": "Échappez aux notifications constantes et aux changements de contexte. Découvrez comment la méthode de la Salle de Concentration crée un environnement protégé et dynamique pour aborder des tâches complexes et obtenir des résultats plus rapidement."
+    "message": "Échappez aux notifications constantes et aux changements de contexte. Découvrez comment la méthode de la Focus Room crée un environnement protégé et dynamique pour aborder des tâches complexes et obtenir des résultats plus rapidement."
   },
   "features.collectivePower.title": {
     "message": "Exploiter la Puissance Collective de Concentration"
@@ -24,7 +25,7 @@
     "message": "Construire Votre Moteur de Haute Productivité"
   },
   "features.highOutput.description": {
-    "message": "Obtenez un plan pratique et détaillé utilisant les principes Agile. Mettez en place votre propre Salle de Concentration (physique ou virtuelle), mesurez son impact et cultivez une culture durable de travail profond et d'amélioration continue."
+    "message": "Obtenez un plan pratique et détaillé utilisant les principes Agile. Mettez en place votre propre Focus Room (physique ou virtuelle), mesurez son impact et cultivez une culture durable de travail profond et d'amélioration continue."
   },
   "theme.ErrorPageContent.title": {
     "message": "Cette page a planté.",
