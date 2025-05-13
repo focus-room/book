@@ -54,6 +54,18 @@ export default function Home() {
       <main>
         <HomepageFeatures />
       </main>
+      <div>
+        <pre style={{whiteSpace: 'pre-wrap', width: '96%', maxWidth: '960px', margin: '0 auto'}}><Translate id="home.story"></Translate></pre>
+      </div>
+      <br/>
+      <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs">
+            <Translate id="homepage.startReading">➡️ Start Reading The Book </Translate>
+          </Link>
+        </div>
+        <br/>
     </Layout>
   );
 }
